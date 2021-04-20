@@ -1,4 +1,6 @@
 # VARIABLES ---------------------------------------------------------
+# name = input("What is your name? ")
+# print("Hello, " + name")
 # name, age = "Istiak", 21
 # age = 21
 # numbers = [1, 2, 3, 4]
